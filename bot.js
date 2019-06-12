@@ -14,7 +14,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Model Codes ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(argresult, "https://www.twitch.tv/dggamingbot");//ÍÞæÞ ãæÏíá ßæÏÒ
+client.user.setGame(argresult, "https://www.twitch.tv/dggamingbot");
 client.user.setStatus("online")
  
 });
