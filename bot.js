@@ -21,7 +21,7 @@ client.user.setStatus("online")
 
 
  
-});
+
 var prefix = "-"
 LOka.on("message", message => {
   if(!message.content.startsWith(prefix)) return;;
